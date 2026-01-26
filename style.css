@@ -1,0 +1,29 @@
+.nav-links{
+    display: flex;
+    gap: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-left: auto;
+}
+
+header{
+  display: flex;
+}
+
+.hireButton{
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+body{
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
