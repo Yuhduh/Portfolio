@@ -1,0 +1,21 @@
+# PHP
+*.log
+
+# Database
+*.sql.backup
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Config (if contains sensitive data)
+# config.php
